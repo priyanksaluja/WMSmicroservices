@@ -68,10 +68,10 @@
         ``` Request Sample => {"orderlineid": 1, "skuid": 1, "quantity": 12}```
 
 * DELETE
-    * **/api/sku/<id>** - Delete record from Sku model having id field as <id>
-    * **/api/order/<id>** - Delete record from Order model having id field as <id>
-    * **/api/storage/<id>** - Delete record from Storage model having id field as <id>
-    * **/api/orderline/<id>** - Delete record from OrderLine model having id field as <id>
+    * **/api/sku/id** - Delete record from Sku model having id field as <id>
+    * **/api/order/id** - Delete record from Order model having id field as <id>
+    * **/api/storage/id** - Delete record from Storage model having id field as <id>
+    * **/api/orderline/id** - Delete record from OrderLine model having id field as <id>
  
 
 ## URI
